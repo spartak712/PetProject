@@ -1,12 +1,33 @@
 {
   "uid" : "ab17fc5a4eb3bca4b216b548c7f9fcbc",
   "children" : [ {
+    "name" : "1d32cf7ab4e9",
+    "children" : [ {
+      "name" : "1-MainThread",
+      "children" : [ {
+        "name" : "Change profile name",
+        "uid" : "93e2015f01ac0c51",
+        "parentUid" : "5c8530d1b4109c9652d0e3abd429960a",
+        "status" : "passed",
+        "time" : {
+          "start" : 1736434001577,
+          "stop" : 1736434009696,
+          "duration" : 8119
+        },
+        "flaky" : false,
+        "newFailed" : false,
+        "parameters" : [ ]
+      } ],
+      "uid" : "5c8530d1b4109c9652d0e3abd429960a"
+    } ],
+    "uid" : "5fc62c8da430ce26d03d454468ef5091"
+  }, {
     "name" : "ed5705a75bbc",
     "children" : [ {
       "name" : "1-MainThread",
       "children" : [ {
         "name" : "Change profile name",
-        "uid" : "b70060cf19ba3a7b",
+        "uid" : "351109225f291a32",
         "parentUid" : "3cfa235acc9ad249673edf4f2cbd940e",
         "status" : "passed",
         "time" : {
@@ -21,27 +42,6 @@
       "uid" : "3cfa235acc9ad249673edf4f2cbd940e"
     } ],
     "uid" : "390b4f2fd9fbad02126c42aec05430c5"
-  }, {
-    "name" : "8b09f3bb6f47",
-    "children" : [ {
-      "name" : "1-MainThread",
-      "children" : [ {
-        "name" : "Change profile name",
-        "uid" : "61cdc8a84fb661c9",
-        "parentUid" : "e8118eb1121ea160e6fa102e867e9c28",
-        "status" : "passed",
-        "time" : {
-          "start" : 1736344684952,
-          "stop" : 1736344693041,
-          "duration" : 8089
-        },
-        "flaky" : false,
-        "newFailed" : false,
-        "parameters" : [ ]
-      } ],
-      "uid" : "e8118eb1121ea160e6fa102e867e9c28"
-    } ],
-    "uid" : "152edf6596ea4674eb50666d453d0f8d"
   } ],
   "name" : "timeline"
 }
